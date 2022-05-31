@@ -1,24 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+
+
+import {
+  Description,
+  NavHeader,
+  Section,
+  Slider,
+  Talents,
+} from "./components";
+
+import { customTheme } from "./theme";
+
+import {  Grommet } from "grommet";
+import CountDown from "./components/Countdown/Timer";
+import SignUP from "./components/SignUP";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Grommet theme={customTheme} full>
+      <NavHeader />
+      <Description />
+      <CountDown />
+      <Slider />
+      <SignUP />
+  
+    </Grommet>
   );
 }
 
