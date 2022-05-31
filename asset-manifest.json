@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/instatelemed/static/css/main.16acd03d.css",
-    "main.js": "/instatelemed/static/js/main.316c4603.js",
+    "main.js": "/instatelemed/static/js/main.43eca3a5.js",
     "static/js/787.9ccdad6d.chunk.js": "/instatelemed/static/js/787.9ccdad6d.chunk.js",
     "static/media/logo.JPG": "/instatelemed/static/media/logo.fea5a6a7b781d901cd91.JPG",
     "static/media/slick.svg": "/instatelemed/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/instatelemed/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/instatelemed/index.html",
     "main.16acd03d.css.map": "/instatelemed/static/css/main.16acd03d.css.map",
-    "main.316c4603.js.map": "/instatelemed/static/js/main.316c4603.js.map",
+    "main.43eca3a5.js.map": "/instatelemed/static/js/main.43eca3a5.js.map",
     "787.9ccdad6d.chunk.js.map": "/instatelemed/static/js/787.9ccdad6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16acd03d.css",
-    "static/js/main.316c4603.js"
+    "static/js/main.43eca3a5.js"
   ]
 }
